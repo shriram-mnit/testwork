@@ -1,0 +1,19 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "this is a simple server by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://shriram-mnit:sHRIRAM@9876@github.com/shriram-mnit/testwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shriram-mnit/testwork/issues"
+  },
+  "homepage": "https://github.com/shriram-mnit/testwork#readme"
+}
